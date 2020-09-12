@@ -1,4 +1,3 @@
-# Portfolio
 
 # Deploy your Porfolio Website on Amazon S3.
 
