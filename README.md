@@ -1,5 +1,5 @@
 
-# Deploy your Porfolio Website on Amazon S3.
+# Deploy your Portfolio Website on Amazon S3.
 
 ### Purpose:
 The Complete Porfolio Website is developed and deployed using following tools
